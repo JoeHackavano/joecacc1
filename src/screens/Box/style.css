@@ -1,0 +1,29 @@
+.box {
+  height: 664px;
+  position: relative;
+  width: 1817px;
+}
+
+.box .component-2 {
+  border: 4.26px dashed;
+  border-color: #9747ff;
+  border-radius: 21.28px;
+  height: 664px;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 1817px;
+}
+
+.box .property-on {
+  left: 1051px !important;
+  position: absolute !important;
+  top: 85px !important;
+}
+
+.box .property-off {
+  left: 85px !important;
+  position: absolute !important;
+  top: 85px !important;
+}
